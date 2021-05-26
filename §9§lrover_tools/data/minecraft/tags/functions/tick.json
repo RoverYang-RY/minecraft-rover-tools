@@ -1,0 +1,7 @@
+{
+  "remark": "时刻运行函数列表",
+  "replace": false,
+  "values": [
+    "rover_qz_chain:tick"
+  ]
+}

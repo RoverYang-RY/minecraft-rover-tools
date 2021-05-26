@@ -1,0 +1,57 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": [
+      {
+        "text": "\n"
+      },
+      {
+        "text": "工具包",
+        "color": "red",
+        "bold": true
+      },
+      {
+        "text": " ",
+        "color": "white",
+        "bold": false
+      },
+      {
+        "text": "0.0.1",
+        "color": "green",
+        "bold": true,
+        "italic": true
+      },
+      {
+        "text": "\n",
+        "color": "white",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "author",
+        "color": "dark_gray",
+        "bold": true
+      },
+      {
+        "text": "：     ",
+        "color": "white",
+        "bold": false
+      },
+      {
+        "text": "rover",
+        "color": "gold",
+        "bold": true,
+        "underlined": true
+      },
+      {
+        "text": "\n",
+        "color": "white",
+        "bold": false,
+        "underlined": false
+      }
+    ]
+  }
+}
